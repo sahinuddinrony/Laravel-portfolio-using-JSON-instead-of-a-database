@@ -1,0 +1,16 @@
+[
+    {
+        "id": "1",
+        "title": "Project 1",
+        "description": "Laravel is a popular open-source PHP web application framework and more....",
+        "image": "/images/project_1.jpg",
+        "url": "http://127.0.0.1:8000/project1"
+    },
+    {
+        "id": "2",
+        "title": "Project 2",
+        "description": "Laravel, a popular PHP framework, isn't typically used for game development...",
+        "image": "/images/project_2.jpg",
+        "url": "http://127.0.0.1:8000/project2"
+    }
+]

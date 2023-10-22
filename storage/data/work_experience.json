@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Front-End Developer",
+        "company": "Company A",
+        "year": "2020 - 2022",
+        "description": "Worked on creating interactive and responsive web interfaces."
+    },
+    {
+        "title": "Back-End Developer",
+        "company": "Company B",
+        "year": "2018 - 2020",
+        "description": "Developed server-side components and RESTful APIs."
+    }
+]
